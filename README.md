@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a professional frontend developer with proficiencyin JavaScript, React, Redux, Vue.js, TailwindCSS, Next.js, HTML, CSS.<br>I am currently learning Typescript. 
+I am a professional frontend developer with proficiency in JavaScript, React, Redux, Vue.js, TailwindCSS, Next.js, HTML, CSS.<br>I am currently learning Typescript. 
 
 
 ## 🌐 Socials:
